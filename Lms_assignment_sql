@@ -250,7 +250,7 @@ INSERT INTO assessments (assessment_id, module_id, assessment_name, assessment_t
   -- Course 5 Assessments
   (13, 14, 'Creative Writing Quiz', 'quiz', 100),
   (14, 15, 'Poetry Analysis', 'assignment', 100),
-  (15, 16, 'Fiction Story Assignment', 'assignment', 100),
+  (15, 16, 'Fiction Story Assignment', 'assignment', 200),
   -- Course 6 Assessments
   (16, 17, 'Data Structures Quiz', 'quiz', 100),
   (17, 18, 'Sorting Algorithms Test', 'exam', 100),
